@@ -3,7 +3,7 @@ Library    RequestsLibrary
 Library    Collections
 
 *** Variables ***
-${BASE_URL}    http://localhost:30080
+${BASE_URL}    http://192.168.49.2:30080
 
 *** Test Cases ***
 
